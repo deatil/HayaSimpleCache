@@ -1,1 +1,27 @@
-{    "name": "HayaSimpleCache/SimpleCache",    "type": "library",    "keywords": [        "HayaSimpleCache",        "cache"    ],    "description": "HayaSimpleCache is PSR-16 interface.",    "homepage": "http://github.com/deatil",    "license": "MIT",    "authors": [        {            "name": "Deatil",            "email": "2217957370@qq.com",            "homepage": "http://github.com/deatil"        }    ],    "require": {        "php": ">=5.5.0",    },    "autoload": {        "psr-4": {            "Psr\\SimpleCache\\": "src/Psr/SimpleCache"        }    }}
+{
+    "name": "HayaSimpleCache/SimpleCache",
+    "type": "library",
+    "keywords": [
+        "HayaSimpleCache",
+        "cache"
+    ],
+    "description": "HayaSimpleCache is PSR-16 interface.",
+    "homepage": "http://github.com/deatil",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deatil",
+            "email": "2217957370@qq.com",
+            "homepage": "http://github.com/deatil"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Psr\\SimpleCache\\": "src/Psr/SimpleCache"
+        }
+    }
+}
+
