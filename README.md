@@ -1,2 +1,2 @@
 # HayaSimpleCache
-缓存接口
+简单缓存PSR-16接口
